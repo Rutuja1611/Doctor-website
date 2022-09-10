@@ -1,0 +1,25 @@
+.hero_section{
+    background-image: url("https://cdn.pixabay.com/photo/2020/04/29/20/53/clinic-5110540_960_720.jpg");
+    height: 110vh;
+    background-size: cover;
+   
+}
+.mybg{
+    background-color: white;
+}
+.card-md{
+    height: 10rem;
+    width: 10rem;
+    margin: 2rem;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+.mybg1{
+    background-color: rgba(0, 0, 255, 0.521);
+   padding: 1rem;
+}
+.img-md1{
+    height: 18rem;
+    width: 30rem;
+}

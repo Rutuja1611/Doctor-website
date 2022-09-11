@@ -23,3 +23,14 @@
     height: 18rem;
     width: 30rem;
 }
+.mybg2{
+    background-color:  rgba(0, 0, 255, 0.521);
+}
+.img-md2{
+    height: 20rem;
+    width: 20rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    justify-content: center;
+    align-items: center;
+}
